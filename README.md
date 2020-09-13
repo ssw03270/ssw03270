@@ -39,7 +39,7 @@ Here are some ideas to get you started:
  
 ## 🚲 Activities 🚲
  - Student Council of Dept. of Software Convergence (2020.09. ~ Recent)
- - SWTUBE ; design & publicity department (2020.02. ~ )
+ - SWTUBE ; design & publicity department (2020.02. ~ Recent)
 
 ## 📌 Hobby 📌
  - Playing and making games
