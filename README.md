@@ -31,8 +31,9 @@ Here are some ideas to get you started:
  - Jisan High School (2017.03. ~ 2020.02.)
  - Jisan Middle School (2014.03. ~ 2017.02.)
  
-## 🚲 Work experience 🚲
+## 🚲 Activities 🚲
  - Student Council of Dept. of Software Convergence (2020.09. ~ Recent)
+ - SWTUBE ; design & publicity department (2020.02. ~ )
  
 ## 📚 I can... 📚
  - C, C++
