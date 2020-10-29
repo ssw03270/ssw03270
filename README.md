@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-a877f2?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/won_yee_/)](https://www.instagram.com/won_yee_/)
 [![PlayStore Badge](https://img.shields.io/badge/-PlayStore-6e84ff?style=flat-square&logo=Google&logoColor=white&link=https://play.google.com/store/apps/developer?id=%EB%82%98%EB%AC%B4%EB%91%A5%EC%A7%80&hl=en)](https://play.google.com/store/apps/developer?id=%EB%82%98%EB%AC%B4%EB%91%A5%EC%A7%80&hl=en)
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ssw03270)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🎓 Education 🎓
  - KyungHee University, Dept. of Software Convergence (2020.03. ~ Recent)
