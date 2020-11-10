@@ -39,12 +39,12 @@ Here are some ideas to get you started:
  - Java, AndroidStudio
  
 ## 🚲 Activities 🚲
- - Student Council of Dept. of Software Convergence (2020.09. ~ Recent)
- - SWTUBE ; design & publicity department (2020.02. ~ Recent)
+ - Student Council of Dept. of Software Convergence (2020.09. ~ 2020.11)
+ - SWTUBE ; filming department (2020.02. ~ Recent)
 
 ## 📌 Hobby 📌
  - Playing and making games
  - Reading books 
  - Traveling
- - Making Video
+ - Making Video and Cocktail
  
