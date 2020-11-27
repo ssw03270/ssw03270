@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 [![PlayStore Badge](https://img.shields.io/badge/-PlayStore-6e84ff?style=flat-square&logo=Google&logoColor=white&link=https://play.google.com/store/apps/developer?id=%EB%82%98%EB%AC%B4%EB%91%A5%EC%A7%80&hl=en)](https://play.google.com/store/apps/developer?id=%EB%82%98%EB%AC%B4%EB%91%A5%EC%A7%80&hl=en)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ssw03270)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssw03270)](https://github.com/anuraghazra)
 ## 🎓 Education 🎓
  - KyungHee University, Dept. of Software Convergence (2020.03. ~ Recent)
  - Jisan High School (2017.03. ~ 2020.02.)
