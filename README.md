@@ -33,13 +33,14 @@ Here are some ideas to get you started:
  - Jisan Middle School (2014.03. ~ 2017.02.)
   
 ## 📚 I can... 📚
- - C, C++
+ - C, C++, Unreal
  - C#, Unity
  - Python
  - Java, AndroidStudio
  
 ## 🚲 Activities 🚲
- - 2021 Student Council of Dept. of Software Convergence (2021.01. ~ Recent)
+ - Ludens ; Vice Chairman (2021.07. ~ Recent)
+ - 2021 Student Council of Dept. of Software Convergence; Chairman (2021.01. ~ Recent)
  - 2020 Student Council of Dept. of Software Convergence (2020.09. ~ 2020.11)
  - SWTUBE ; filming department (2020.02. ~ Recent)
 
