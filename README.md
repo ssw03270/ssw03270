@@ -38,7 +38,9 @@ Here are some ideas to get you started:
  - Python
  
 ## 🚲 Activities 🚲
+ - IIIXR Lab ; Undergraduate Researcher (2021.12. ~ Recent)
  - Ludens ; Vice Chairman (2021.07. ~ Recent)
- - 2021 Student Council of Dept. of Software Convergence; Chairman (2021.01. ~ Recent)
+ - Kyunghee University, Software Membership (2021.0.6 ~ Recent)
+ - 2021 Student Council of Dept. of Software Convergence; Chairman (2021.01. ~ 2021.12)
  - 2020 Student Council of Dept. of Software Convergence (2020.09. ~ 2020.11)
  - SWTUBE ; filming department (2020.02. ~ Recent)
